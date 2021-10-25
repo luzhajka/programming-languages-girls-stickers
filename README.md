@@ -1,4 +1,4 @@
-# Readme - program-language-girls-stickers
+# Readme - programming-languages-girls-stickers
 
 ## Find me 
 #### on Twitter: [@olga_luzhajka](https://twitter.com/olga_luzhajka)
